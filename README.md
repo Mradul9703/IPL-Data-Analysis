@@ -1,10 +1,10 @@
-# 🏏 IPL Data Analysis
+# IPL Data Analysis
 
 A data-driven exploration of the **Indian Premier League (IPL)** using Python, Pandas, and Matplotlib. This project dives into IPL match data to uncover key trends and team performance through detailed visualizations and insights.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs an end-to-end data analysis of IPL matches from historical datasets. By leveraging the power of **Pandas**, **NumPy**, and **Matplotlib**, we explore:
 
@@ -15,16 +15,16 @@ This project performs an end-to-end data analysis of IPL matches from historical
 
 ---
 
-## 📊 Key Features
+## Key Features
 
-- 📁 **Data Cleaning:** Standardizes match data.
-- 🧠 **Insights Discovery:** Strategic insights like how toss affects winning chances.
-- 📉 **Visualizations:** Clear, informative plots to highlight key trends.
-- 💬 **Commentary:** Inline markdown explanations throughout the notebook.
+-  **Data Cleaning:** Standardizes match data.
+-  **Insights Discovery:** Strategic insights like how toss affects winning chances.
+-  **Visualizations:** Clear, informative plots to highlight key trends.
+-  **Commentary:** Inline markdown explanations throughout the notebook.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 
 - Pandas
@@ -34,6 +34,6 @@ This project performs an end-to-end data analysis of IPL matches from historical
 
 ---
 
-## 📁 Files Used
+## Files Used
 
 - matches.csv [Kaggle](https://www.kaggle.com)
